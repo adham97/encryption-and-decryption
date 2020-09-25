@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (NetworkSecurityHW.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Skipping... (no relevant changes detected)
+  stdafx.cpp
+  Skipping... (no relevant changes detected)
+  Part1.cpp
+  NetworkSecurityHW.vcxproj -> C:\Users\Msys\Documents\Visual Studio 2015\Projects\NetworkSecurityHW\Debug\Part1.exe
+  NetworkSecurityHW.vcxproj -> C:\Users\Msys\Documents\Visual Studio 2015\Projects\NetworkSecurityHW\Debug\Part1.pdb (Full PDB)
